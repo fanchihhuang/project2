@@ -151,10 +151,10 @@ table {
     display: none;
 }
 .topbutton{
-    position: absolute;
-    top: 674px;
-    right: 48px;
-    z-index: 2;
+    position: fixed;
+    top: 500px;
+    left: 1247px;
+    z-index: 3;
 }
 .background6 img{
     height: 361px;
@@ -821,9 +821,8 @@ small{
         padding-right: 5.333%;
     }
     .numberofpeople{
-        width: 100%;
         margin-top: 24px;
-        padding-left: 4%;          
+        padding-left: 4%;         
     }
     .numberofpeople a{
         width: 90px;
