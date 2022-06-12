@@ -490,6 +490,7 @@ table {
 }
 .count{
     display: flex;
+    flex-wrap: wrap;
     width: 88.29%;
     justify-content: space-between;
     margin-top: 32px;
