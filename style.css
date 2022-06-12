@@ -537,6 +537,10 @@ small{
     display: flex;
     margin-bottom: 16px;
 }
+.box3 img{
+    width: 19.56px;
+    height: 16px;
+}
 .experience a{
     display: block;
     font-size: 18px;
